@@ -2,7 +2,7 @@
 export const Title = () => {
     return (
         <h1 className="text-5xl font-Briem Hand font-bold tracking-widest">
-        Todo App
+        Mi Todo App
         </h1>
     )
 
